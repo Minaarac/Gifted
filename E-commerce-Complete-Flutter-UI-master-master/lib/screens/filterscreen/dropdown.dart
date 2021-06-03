@@ -10,8 +10,8 @@ class DropdownScreen extends StatefulWidget {
 class _DropdownScreenState extends State<DropdownScreen> {
   String dropdownvalue = 'Kayıtlı Olan Biri İçin Filtrele';
   var items = [
-    'Kayıtlı Olan Biri İçin Filtrele',
-    'Kayıtlı Olmayan Biri İçin Filtrele',
+    'Kayıtlı Olan Biri için Filtrele',
+    'Kayıtlı Olmayan Biri için Filtrele',
   ];
 
   @override
