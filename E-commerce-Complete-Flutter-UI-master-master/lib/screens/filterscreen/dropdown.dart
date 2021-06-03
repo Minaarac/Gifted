@@ -42,7 +42,7 @@ class _DropdownScreenState extends State<DropdownScreen> {
                 highlightColor: Colors.red,
                 elevation: 10,
                 child: Text(
-                  "Devam Ediniz!",
+                  "Devam Ediniz",
                   style: TextStyle(color: Colors.white),
                 ),
                 onPressed: () =>
